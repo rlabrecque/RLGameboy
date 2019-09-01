@@ -1,0 +1,6 @@
+Debug/
+*.*sdf
+*.suo
+*.vcxproj.user
+
+hwtests/
